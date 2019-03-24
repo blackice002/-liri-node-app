@@ -22,7 +22,11 @@ Navigate to the folder that contains the liri.js file.
 
 Depending on the command you run, the output will vary.
 
-Example 1: Run the concert-this command
+** ** Run the concert-this command
 
- screenshots/Screen Shot 2019-03-24 at 12.07.30 PM.png
- 
+        node liri concert-this (artists name or band name) **
+
+<img src="screenshots/screen5.png" width="400px">
+
+
+**
