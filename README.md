@@ -24,5 +24,4 @@ Depending on the command you run, the output will vary.
 
 Example 1: Run the concert-this command
 
- screenshots/Screen Shot 2019-03-24 at 12.07.30 PM.png
- 
+ https://github.com/blackice002/liri-node-app/blob/master/screenshots/Screen%20Shot%202019-03-24%20at%2012.07.30%20PM.png
