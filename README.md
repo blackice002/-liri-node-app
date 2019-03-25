@@ -22,22 +22,44 @@ Navigate to the folder that contains the liri.js file.
 
 Depending on the command you run, the output will vary.
 
-** ** Run the concert-this command
+** ** command line instruction
 
-       1. node liri concert-this (artists name or band name) **
+        1. node liri concert-this (artists name or band name) **
+        $ node liri concert-this mariah carey
 
 <img src="screenshots/screen5.png" width="400px">
 
-       2.node liri spotify-this-song
+        2.node liri spotify-this-song(with out any song)
+        $node liri spotify-this-song
 
 <img src="screenshots/screen1.png" width="400px">
     
-    
-       3.node liri spotify-this-song (song)
+        3.node liri spotify-this-song (song)
+        $ node liri spotify-this-song psycho
 
 <img src="screenshots/screen2.png" width="400px">
 
-      4 node liri movie-this (without movie name)
+        4 node liri movie-this (without movie name)
+        $ node liri movie-this
 
 <img src="screenshots/screen3.png" width="400px">
-        node liri movie-this (with movie name)
+     
+        5 node liri movie-this (with movie name)
+        $ node liri movie-this roma
+
+<img src="screenshots/screen4.png" width="400px">
+    
+        6 node liri do-what-it-says
+        $ node liri do-what-it-says
+        Output: The system will read the text in the random.txt file, and perform the comman listed in the random.txt file.  
+<img src="screenshots/screen7.png" width="400px">
+
+
+# TECHNOLOGIES USED
+        Javascript
+        Nodejs
+        Node packages:
+            Node-Spotify-API
+            Request
+            Moment
+            DotEnv
