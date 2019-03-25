@@ -27,32 +27,32 @@ Depending on the command you run, the output will vary.
         1. node liri concert-this (artists name or band name) **
         $ node liri concert-this mariah carey
 
-<img src="screenshots/screen5.png" width="400px">
+<img src="screenshots/screen5.png">
 
         2.node liri spotify-this-song(with out any song)
         $node liri spotify-this-song
 
-<img src="screenshots/screen1.png" width="400px">
+<img src="screenshots/screen1.png">
     
         3.node liri spotify-this-song (song)
         $ node liri spotify-this-song psycho
 
-<img src="screenshots/screen2.png" width="400px">
+<img src="screenshots/screen2.png">
 
         4 node liri movie-this (without movie name)
         $ node liri movie-this
 
-<img src="screenshots/screen3.png" width="400px">
+<img src="screenshots/screen3.png">
      
         5 node liri movie-this (with movie name)
         $ node liri movie-this roma
 
-<img src="screenshots/screen4.png" width="400px">
+<img src="screenshots/screen4.png">
     
         6 node liri do-what-it-says
         $ node liri do-what-it-says
         Output: The system will read the text in the random.txt file, and perform the comman listed in the random.txt file.  
-<img src="screenshots/screen7.png" width="400px">
+<img src="screenshots/screen7.png">
 
 
 # TECHNOLOGIES USED
