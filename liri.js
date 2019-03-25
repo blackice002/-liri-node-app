@@ -116,6 +116,7 @@ function findSong(inputValue) {
       textLog("Song: " + data.tracks.items[0].name);
       textLog("Preview: " + data.tracks.items[0].preview_url);
       textLog("Album: " + data.tracks.items[0].album.name);
+      textLog("\n---------------------------------------------------");
     }
   });
 };

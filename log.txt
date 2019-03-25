@@ -1076,3 +1076,81 @@ Song: Shallow
 **********  Songs Information  **********
 Preview: null
 Album: A Star Is Born Soundtrack
+**********  Songs Information  **********
+
+---------------------------------------------------
+Song: Never Recover (Lil Baby & Gunna, Drake)
+Artist: Lil Baby
+Preview: null
+Album: Drip Harder
+
+---------------------------------------------------
+**********  Songs Information  **********
+Song: Never Recover (Lil Baby & Gunna, Drake)
+Artist: Lil Baby
+Preview: null
+Album: Drip Harder
+
+---------------------------------------------------
+Song: SICKO MODE
+Artist: Travis Scott
+
+---------------------------------------------------
+**********  Songs Information  **********
+Preview: https://p.scdn.co/mp3-preview/1c3c01c64477b356e28a652b6447f4ef96689a71?cid=62a9867beaa549d68d7ff5979244fe63
+Album: ASTROWORLD
+
+---------------------------------------------------
+Song: I Got 5 On It (Tethered Mix from US)
+Artist: Michael Abels
+
+---------------------------------------------------
+**********  Songs Information  **********
+Preview: https://p.scdn.co/mp3-preview/973e9dd7fa97af0e705fc4804d5374131001826c?cid=62a9867beaa549d68d7ff5979244fe63
+Album: Us (Original Motion Picture Soundtrack)
+
+---------------------------------------------------
+
+---------------------------------------------------
+Date: 03/25/2019
+**********  mariahcarey  **********  New York  **********
+
+---------------------------------------------------
+Time: 8:00 PM
+Name: Radio City Music Hall
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+**********  mariahcarey  **********  Boston  **********
+Date: 03/28/2019
+
+---------------------------------------------------
+Name: Boch Center - Wang Theatre
+Time: 8:00 PM
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+**********  mariahcarey  **********  Atlantic City  **********
+
+---------------------------------------------------
+Date: 03/30/2019
+Time: 8:00 PM
+Name: Hard Rock Live at Etess Arena
+City: Atlantic City
+Country: NJ
+Country: United States
+
+---------------------------------------------------
+**********  mariahcarey  **********  Oxon Hill  **********
+
+---------------------------------------------------
+Time: 8:00 PM
+Date: 03/31/2019
+Name: The Theater at MGM National Harbor
+City: Oxon Hill
+Country: MD
+Country: United States
