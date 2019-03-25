@@ -74,7 +74,7 @@ function bandsInTown(inputValue) {
         var date = moment(dTime).format('L')
         var time = moment(dTime).format('LT')
         textLog("\n---------------------------------------------------");
-        textLog("**********  "+ artist +"  **********  "+ JS[i].venue.city +"  **********");
+        textLog("**********  " + artist + "  **********  " + JS[i].venue.city + "  **********");
         textLog("\n---------------------------------------------------");
         textLog("Date: " + date);
         textLog("Time: " + time);

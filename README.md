@@ -1,4 +1,4 @@
-# liri-node-app
+# LIRI-NODE-APP
 Creator: Puspa Sharma
 
 Created on: March 22 2019
@@ -15,7 +15,7 @@ movie-this
 do-what-it-says
 
 
-# instructions
+# INSTRUCTIONS
 Open your terminal such as Bash.
 
 Navigate to the folder that contains the liri.js file.
